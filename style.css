@@ -1,0 +1,29 @@
+li {
+    font-size: 24;
+    color: teal;
+}
+
+h1,h4{
+    color: wheat;
+}
+
+img {
+    width: 200 px;
+    height: 200px;
+}
+
+a:link {
+    color: red; 
+}
+
+a:visited{
+    color: green;
+}
+
+body {
+    background-color: black;
+}
+
+p{
+    color: whitesmoke;
+}
